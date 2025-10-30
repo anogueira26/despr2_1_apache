@@ -108,7 +108,7 @@ navegador: http://localhost:8081/
 Crea una VM como clon enlazado de la VM base Ubuntu-Server-Base.ova proporcionada en
 el repositorio del curso:
 
-![clon_enlazado](/despr2_1_apache/img/virtualbox%20clon%20creada.png)
+![clon_enlazado](img/virtualbox%20clon%20creada.png)
 
 Configura la red: Adaptador 1 en NAT + Port-Forward (host 8081 → guest 80; host 2223 → guest
 22):

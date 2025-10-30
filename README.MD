@@ -113,28 +113,28 @@ el repositorio del curso:
 Configura la red: Adaptador 1 en NAT + Port-Forward (host 8081 → guest 80; host 2223 → guest
 22):
 
-![config_red](/despr2_1_apache/img/configuracion%20de%20red.png)
+![config_red](img/configuracion%20de%20red.png)
 
 Instalar apache2:
-![installapache2](/despr2_1_apache/img/instalr%20apache2.png)
+![installapache2](img/instalr%20apache2.png)
 
 
 Status de apache2:
-![statusapache2](/despr2_1_apache/img/status%20apache2.png)
+![statusapache2](img/status%20apache2.png)
 
 Acceder a la pagina por defecto:
-![defaultpage](/despr2_1_apache/img/local%20base.png)
+![defaultpage](img/local%20base.png)
 
 Acceder a la pagina con los estilos creados:
-![stylepage](/despr2_1_apache/img/local%20mod.png)
+![stylepage](img/local%20mod.png)
 
 Crea un snapshot llamado After-Apache-Deployment:
-![snapshotafterapache](/despr2_1_apache/img/crear%20snapshot%20luego%20de%20instalar%20apache.png)
+![snapshotafterapache](img/crear%20snapshot%20luego%20de%20instalar%20apache.png)
 
 Estructura de los archivos creado:
-![Estructurapermiso](/despr2_1_apache/img/directorios%20con%20permisos.png)
+![Estructurapermiso](img/directorios%20con%20permisos.png)
 
-![Estructuralistado](/despr2_1_apache/img/structura%20de%20directorios%20sin%20mostrar%20permisos.png)
+![Estructuralistado](img/structura%20de%20directorios%20sin%20mostrar%20permisos.png)
 
 
 # Problemas encontrados durante la configuración y despliegue, y cómo los solucionaste.

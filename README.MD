@@ -1,3 +1,5 @@
+Autor: Ángel Nogueira Castaño
+
 # Descripción del proyecto
 
 > El objetivo de esta práctica es instalar y configurar Apache en una máquina virtual (Ubuntu 22.04) y desplegar
@@ -137,3 +139,4 @@ Estructura de los archivos creado:
 
 # Problemas encontrados durante la configuración y despliegue, y cómo los solucionaste.
 Algun problema al hacer alguna snapshot con los comandos solución hacerlo manualmente.
+
